@@ -1,4 +1,0 @@
-STelManSys
-==========
-
-Workspace of STelManSys
